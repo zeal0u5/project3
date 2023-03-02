@@ -2,25 +2,6 @@
   background-color: white;
   overflow: hidden;
 }
-#nav-contain {
-  float: left;
-  width: 100%;
-  position: fixed;
-}
-#nav-bar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  left: 50%;
-  float: left;
-}
-#nav-bar ul li {
-  float: left;
-  position: relative;
-  right: 50%;
-  display: block;
-}
 #nav-bar ul li a {
   display: block;
   padding: 10px 20px;
