@@ -1,5 +1,5 @@
 #nav-bar {
-  background-color: black;
+  background-color: white;
   overflow: hidden;
 }
 #nav-contain {
@@ -28,7 +28,8 @@
   text-decoration: none;
 }
 #nav-bar ul li a:hover {
-  background-color: #fff;
+  background-color: #000;
+  color: #fff;
 }
 #onpage {
   text-decoration: underline overline;
