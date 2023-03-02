@@ -5,7 +5,7 @@
 #nav-contain {
   float: left;
   width: 100%;
-  position: relative;
+  position: fixed;
 }
 #nav-bar ul {
   list-style-type: none;
