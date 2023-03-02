@@ -32,6 +32,6 @@
   color: #fff;
 }
 #onpage {
-  text-decoration: underline overline;
+  background-color: #808080;
   text-decoration-style: double;
 }
