@@ -5,7 +5,7 @@
 #nav-contain {
   float: left;
   width: 100%;
-  position: relative;
+  position: fixed;
 }
 #nav-bar ul {
   list-style-type: none;
@@ -34,4 +34,7 @@
 #onpage {
   background-color: #808080;
   text-decoration-style: double;
+}
+audio {
+  padding: 20px;
 }
