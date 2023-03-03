@@ -1,5 +1,4 @@
 #nav-bar {
-  background-color: white;
   overflow: hidden;
   opacity: 1;
 }
@@ -28,21 +27,8 @@ html {
 h3 {
   text-decoration: underline;
 }
-#skill ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  float: left;
-}
-#skill ul li {
-  float: left;
-  position: relative;
-  right: 10%;
-  display: block;
-  padding: 10px;
-  color: #000;
-  text-decoration: none;
+#skill {
+
 }
 #edu {
   
