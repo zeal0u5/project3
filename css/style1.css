@@ -1,13 +1,12 @@
 #nav-bar {
+  background-color: white;
   overflow: hidden;
-  opacity: 1;
 }
 #nav-bar ul li a {
   display: block;
   padding: 10px 20px;
   color: #000;
   text-decoration: none;
-  background-color: white;
 }
 #nav-bar ul li a:hover {
   background-color: #000;

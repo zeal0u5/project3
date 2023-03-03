@@ -1,6 +1,7 @@
 #nav-bar {
   background-color: white;
   overflow: hidden;
+  font-family: 'Fanwood Text', serif;
 }
 #nav-bar ul li a {
   display: block;
