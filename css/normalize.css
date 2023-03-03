@@ -10,9 +10,11 @@
   position: relative;
   left: 50%;
   float: left;
+  width: 100%;
 }
 #nav-bar ul li {
   float: left;
+  width: 100%
   position: relative;
   right: 50%;
   display: block;
@@ -26,6 +28,7 @@ html {
 }
 h1 {
   font-size: 2.5em;
+  text-align: center;
 }
 h2 {
   font-size: 1.75em;
