@@ -1,12 +1,14 @@
 #nav-bar {
   background-color: white;
   overflow: hidden;
+  opacity: 1;
 }
 #nav-bar ul li a {
   display: block;
   padding: 10px 20px;
   color: #000;
   text-decoration: none;
+  background-color: white;
 }
 #nav-bar ul li a:hover {
   background-color: #000;
@@ -17,7 +19,7 @@
   text-decoration-style: double;
 }
 h1 {
-  top: 10%;
+  top: 20%;
   left: 45%;
 }
 html {
@@ -37,18 +39,17 @@ h3 {
   float: left;
   position: relative;
   right: 10%;
-  left: 10%;
   display: block;
   padding: 10px;
   color: #000;
   text-decoration: none;
 }
-edu {
+#edu {
   
 }
-work {
+#work {
   
 }
-extra {
+#extra {
   
 }

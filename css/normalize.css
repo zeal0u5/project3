@@ -2,6 +2,7 @@
   float: left;
   width: 100%;
   position: fixed;
+  opacity: 1;
 }
 #nav-bar ul {
   list-style-type: none;
@@ -10,6 +11,7 @@
   position: relative;
   left: 50%;
   float: left;
+  opacity: 1;
 }
 #nav-bar ul li {
   float: left;
