@@ -36,3 +36,9 @@ h3 {
 h4 h5 h6 th {
   font-size: 1.25em;
 }
+footer {
+  background-color: #808080;
+  font-style: italic;
+  padding: 10px;
+  text-align: center;
+}

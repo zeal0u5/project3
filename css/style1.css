@@ -2,26 +2,30 @@
   background-color: white;
   overflow: hidden;
 }
+#onpage {
+  background-color: #808080;
+  text-decoration-style: double;
+}
 #nav-bar ul li a {
   display: block;
   padding: 10px 20px;
   color: #000;
   text-decoration: none;
+  background-color: white;
 }
 #nav-bar ul li a:hover {
   background-color: #000;
   color: #fff;
 }
-#onpage {
-  background-color: #808080;
-  text-decoration-style: double;
-}
-h1 {
-  top: 20%;
-  left: 45%;
-}
 html {
   font-family: 'Fanwood Text', serif;
+}
+h1{
+  text-align: center;
+}
+h2 {
+  padding: 0px;
+  text-align: center;
 }
 h3 {
   text-decoration: underline;
