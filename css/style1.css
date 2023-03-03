@@ -32,12 +32,12 @@ h3 {
   padding: 0;
   position: relative;
   float: left;
-  background-color: transparent;
 }
 #skill ul li {
   float: left;
   position: relative;
   right: 10%;
+  left: 10%;
   display: block;
   padding: 10px;
   color: #000;
