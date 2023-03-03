@@ -1,5 +1,5 @@
 #nav-bar {
-  background-color: white;
+  background-color: AntiqueWhite;
   overflow: hidden;
   font-family: 'Fanwood Text', serif;
 }
@@ -10,11 +10,11 @@
   text-decoration: none;
 }
 #nav-bar ul li a:hover {
-  background-color: #000;
+  background-color: #SaddleBrown;
   color: #fff;
 }
 #onpage {
-  background-color: #808080;
+  background-color: #SandyBrown;
   text-decoration-style: double;
 }
 audio {
@@ -22,4 +22,11 @@ audio {
 }
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
+}
+#summary {
+  display: block;
+  overflow: hidden;
+}
+#summary:hover {
+  width: 85%;
 }
