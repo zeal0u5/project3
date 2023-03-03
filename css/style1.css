@@ -20,13 +20,13 @@
 html {
   font-family: 'Fanwood Text', serif;
 }
-h1 h2 {
-  text-align: center;
-}
 h3 {
   text-decoration: underline;
 }
 body {
   margin-left: 15%;
   margin-right: 15%;
+}
+h2 {
+  text-align: center;
 }
