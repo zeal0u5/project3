@@ -17,7 +17,8 @@
   text-decoration-style: double;
 }
 h1 {
-  padding: 20px;
+  top: 10%;
+  left: 45%;
 }
 html {
   font-family: 'Fanwood Text', serif;
@@ -30,16 +31,24 @@ h3 {
   margin: 0;
   padding: 0;
   position: relative;
-  left: 10%;
   float: left;
-  background-color: white;
+  background-color: transparent;
 }
 #skill ul li {
   float: left;
   position: relative;
   right: 10%;
   display: block;
-  padding: 10px 20px;
+  padding: 10px;
   color: #000;
   text-decoration: none;
+}
+edu {
+  
+}
+work {
+  
+}
+extra {
+  
 }
