@@ -7,14 +7,12 @@
   display: block;
   padding: 10px 20px;
   color: #000;
-  text-decoration: none;
 }
 #nav-bar ul li a:hover {
-  background-color: #SaddleBrown;
-  color: #fff;
+  background-color: #8B4513;
 }
 #onpage {
-  background-color: #SandyBrown;
+  background-color: SandyBrown;
   text-decoration-style: double;
 }
 audio {
@@ -27,6 +25,9 @@ td p li ul ol a {
   display: block;
   overflow: hidden;
 }
-#summary:hover {
-  width: 85%;
+#summary:hover player:hover npc:hover calendar:hover local:hover agenda:hover qq:hover religion:hover politics:hover{
+  background-color: Moccasin;
+}
+html {
+  background-color: AntiqueWhite;
 }
