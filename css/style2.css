@@ -7,6 +7,7 @@
   display: block;
   padding: 10px 20px;
   color: #000;
+  text-decoration: none;
 }
 #nav-bar ul li a:hover {
   background-color: #8B4513;
@@ -25,8 +26,8 @@ td p li ul ol a {
   display: block;
   overflow: hidden;
 }
-#summary:hover player:hover npc:hover calendar:hover local:hover agenda:hover qq:hover religion:hover politics:hover{
-  background-color: Moccasin;
+#summary h2:hover p:hover {
+  background-color: SandyBrown;
 }
 html {
   background-color: AntiqueWhite;
