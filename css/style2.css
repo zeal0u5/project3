@@ -25,14 +25,21 @@ td p li ul ol a {
 #summary #religion #npc #qq #agenda #calendar #lacal #calendar #politics #player {
   display: block;
   overflow: hidden;
-  border-style: solid;
+  border: solid Brown;
   border-width: .15em;
-  border-color: Brown;
 }
 #summary h2:hover p:hover {
   border-width: .25em;
+  border: solid;
 }
 html {
   background-color: AntiqueWhite;
   color: #654321;
+}
+#calendar img {
+  height: 50%;
+}
+#local img {
+  transform: rotate(90deg);
+  height: 33%;
 }
