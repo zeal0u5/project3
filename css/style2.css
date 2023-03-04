@@ -37,7 +37,7 @@ html {
   color: #654321;
 }
 #calendar img {
-  height: 50%;
+  width: 40%;
 }
 #local img {
   transform: rotate(90deg);
