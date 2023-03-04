@@ -13,7 +13,7 @@
   background-color: #8B4513;
 }
 #onpage {
-  background-color: SandyBrown;
+  background-color: Peru;
   text-decoration-style: double;
 }
 audio {
@@ -44,7 +44,7 @@ html {
   height: 33%;
 }
 audio {
-  filter: sepia(4) saturate(6) grayscale(1) contrast(99%) invert(12%) brightness(.5);
+  filter: sepia(4) saturate(6) grayscale(.1) contrast(99%) invert(12%) brightness(.5);
   width: 50%;
   display: block;
   left: 50%;
