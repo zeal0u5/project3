@@ -22,11 +22,9 @@ audio {
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
-#summary #religion #npc #qq #agenda #calendar #lacal #calendar #politics #player {
+#summary h2 p{
   display: block;
   overflow: hidden;
-  border: solid Brown;
-  border-width: .15em;
 }
 #summary h2:hover p:hover {
   border-width: .25em;
@@ -46,10 +44,13 @@ html {
   filter: sepia(50%);
 }
 audio {
-  filter: hue-rotate(26deg) sepia(100%);
+  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
   width: 50%;
   display: block;
   left: 50%;
   right: 50%;
-  background-color: Peru;
+}
+#summary {
+  border: solid Brown;
+  border-width: .15em;
 }
