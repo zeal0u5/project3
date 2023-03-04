@@ -22,7 +22,7 @@ audio {
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
-#summary #religion #npc #qq #agenda #calendar #lacal #calendar #politics #player{
+#summary #religion #npc #qq #agenda #calendar #lacal #calendar #politics #player {
   display: block;
   overflow: hidden;
   border-style: solid;
