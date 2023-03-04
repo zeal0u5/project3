@@ -22,13 +22,17 @@ audio {
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
-#summary {
+#summary #religion #npc #qq #agenda #calendar #lacal #calendar #politics #player{
   display: block;
   overflow: hidden;
+  border-style: solid;
+  border-width: .15em;
+  border-color: Brown;
 }
 #summary h2:hover p:hover {
-  background-color: SandyBrown;
+  border-width: .25em;
 }
 html {
   background-color: AntiqueWhite;
+  color: #654321;
 }
