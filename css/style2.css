@@ -46,7 +46,7 @@ html {
   filter: sepia(50%);
 }
 audio {
-  filter: sepia(100%);
+  filter: hue-rotate(26deg) sepia(100%);
   width: 50%;
   display: block;
   left: 50%;
