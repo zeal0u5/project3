@@ -44,7 +44,7 @@ html {
   height: 33%;
 }
 audio {
-  filter: hue-rotate(30deg) saturate(92%) brightness(50%);
+  filter: hue-rotate(30deg) saturate(92%) brightness(50%) grayscale(0) sepia(50%);
   width: 50%;
   display: block;
   left: 50%;
