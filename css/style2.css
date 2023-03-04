@@ -38,10 +38,12 @@ html {
 }
 #calendar img {
   width: 40%;
+  filter: sepia(50%);
 }
 #local img {
   transform: rotate(90deg);
   height: 33%;
+  filter: sepia(50%);
 }
 audio {
   filter: hue-rotate(30deg) saturate(92%) brightness(50%) grayscale(0) sepia(50%);
