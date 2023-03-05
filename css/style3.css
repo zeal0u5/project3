@@ -16,6 +16,7 @@
 #onpage {
   background-color: #70a970;
   text-decoration-style: double;
+  color: #20603b;
 }
 audio {
   padding: 20px;
@@ -36,4 +37,22 @@ audio {
   left: 50%;
   right: 50%;
   filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
+}
+img {
+  width: 50%;
+}
+h2 {
+  text-decoration: underline;
+}
+#equip h2 li ul {
+  display: block;
+  float: left;
+}
+#language h2 li ul {
+  display: block;
+  float: right;
+}
+#trait h2 li ul {
+  display: block;
+  float: right;
 }

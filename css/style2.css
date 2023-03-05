@@ -55,79 +55,89 @@ audio {
 }
 #player h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#player h2:hover p:hover {
+#player:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #npc h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#npc h2:hover p:hover {
+#npc:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #local h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#local h2:hover p:hover {
+#local:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #agenda h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#agenda h2:hover p:hover {
+#agenda:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #qq h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#qq h2:hover p:hover {
+#qq:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #calendar h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#calendar h2:hover p:hover {
+#calendar:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #politics h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#politics h2:hover p:hover {
+#politics:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
 }
 #religion h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#religion h2:hover p:hover {
+#religion:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
-}
-th {
-  background-color: #D2B48C;
-}
-h2 {
-  text-decoration: underline;
 }
