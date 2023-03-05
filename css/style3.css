@@ -1,20 +1,20 @@
 #nav-bar {
-  background-color: white;
+  background-color: #8fbc8f;
   overflow: hidden;
   font-family: 'Fanwood Text', serif;
 }
 #nav-bar ul li a {
   display: block;
   padding: 10px 20px;
-  color: #000;
+  color: #20603b;
   text-decoration: none;
 }
 #nav-bar ul li a:hover {
-  background-color: #000;
-  color: #fff;
+  background-color: #20603b;
+  color: #8fbc8f;
 }
 #onpage {
-  background-color: #808080;
+  background-color: #70a970;
   text-decoration-style: double;
 }
 audio {
@@ -22,4 +22,11 @@ audio {
 }
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
+}
+html {
+  background-color: #8fbc8f;
+  color: #20603b;
+}
+th {
+  background-color: #70a970;
 }
