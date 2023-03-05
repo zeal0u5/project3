@@ -60,10 +60,80 @@ footer {
 #trait {
   vertical-align: top;
   display: inline-block;
-  float: right;
+  float: center;
   position: relative;
 }
 #belief {
   vertical-align: top;
   display: inline-block;
+}
+#bkgd h2 p {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#bkgd:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#bonus h2 tr th td {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#bonus:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#fight h2 p th td tr {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#fight:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#equip h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#equip:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#language h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#language:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#trait h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#trait:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#belief h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#belief:hover {
+  border-width: .15em;
+  border: solid #70a970;
 }
