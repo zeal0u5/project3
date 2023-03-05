@@ -35,5 +35,5 @@ audio {
   display: block;
   left: 50%;
   right: 50%;
-  filter: hue-rotate(22deg) saturate(82%) brightness(70%);
+  filter: sepia(3) saturate(6) grayscale(0) contrast(70%) invert(20%) brightness(.5);
 }
