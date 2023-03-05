@@ -1,5 +1,5 @@
 #nav-bar {
-  background-color: #8fbc8f;
+  background-color: #cfe2cf;
   overflow: hidden;
   font-family: 'Fanwood Text', serif;
 }
@@ -11,7 +11,7 @@
 }
 #nav-bar ul li a:hover {
   background-color: #20603b;
-  color: #8fbc8f;
+  color: #cfe2cf;
 }
 #onpage {
   background-color: #70a970;
@@ -24,9 +24,16 @@ td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
 html {
-  background-color: #8fbc8f;
+  background-color: #cfe2cf;
   color: #20603b;
 }
 th {
   background-color: #70a970;
+}
+audio {
+  width: 50%;
+  display: block;
+  left: 50%;
+  right: 50%;
+  filter: sepia(4) saturate(6) grayscale(1) contrast(99%) invert(12%) brightness(.5);
 }
