@@ -60,7 +60,7 @@ footer {
 #trait {
   vertical-align: top;
   display: inline-block;
-  float: center;
+  float: right;
   position: relative;
 }
 #belief {
@@ -136,4 +136,12 @@ footer {
 #belief:hover {
   border-width: .15em;
   border: solid #70a970;
+}
+#fight {
+  vertical-align: top;
+  display: inline-block;
+}
+th {
+  padding: .15em;
+  text-align: left;
 }
