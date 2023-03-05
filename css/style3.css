@@ -44,18 +44,18 @@ img {
 h2 {
   text-decoration: underline;
 }
-#equip h2 li ul {
-  display: block;
-  float: left;
-}
-#language h2 li ul {
-  display: block;
-  float: right;
-}
-#trait h2 li ul {
-  display: block;
-  float: right;
-}
 footer {
   background-color: #70a970;
+}
+#equip {
+  vertical-align: top;
+  display: inline-block;
+}
+#language {
+  vertical-align: top;
+  display: inline-block;
+}
+#trait {
+  vertical-align: top;
+  display: inline-block;
 }
