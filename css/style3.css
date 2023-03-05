@@ -55,7 +55,6 @@ footer {
   vertical-align: top;
   display: inline-block;
   position: relative;
-  float: right;
 }
 #trait {
   vertical-align: top;
@@ -136,10 +135,6 @@ footer {
 #belief:hover {
   border-width: .15em;
   border: solid #70a970;
-}
-#fight {
-  vertical-align: top;
-  display: inline-block;
 }
 th {
   padding: .15em;
