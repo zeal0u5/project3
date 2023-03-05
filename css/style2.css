@@ -28,7 +28,7 @@ td p li ul ol a {
   padding: 0;
   position: relative;
 }
-#summary h2:hover p {
+#summary:hover {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
