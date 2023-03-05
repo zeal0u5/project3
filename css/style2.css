@@ -24,9 +24,11 @@ td p li ul ol a {
 }
 #summary h2 p {
   display: block;
-  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
-#summary h2:hover p:hover {
+#summary h2:hover p {
   border-width: .15em;
   border: solid;
   border: solid #D2B48C;
