@@ -16,23 +16,6 @@
   background-color: #D2B48C;
   text-decoration-style: double;
 }
-body {
-  margin-left: 10%;
-  margin-right: 10%;
-}
-h1 {
-  font-size: 2.5em;
-  text-align: center;
-}
-h2 {
-  font-size: 1.75em;
-}
-h3 {
-  font-size: 1.5em;
-}
-h4 h5 h6 th {
-  font-size: 1.25em;
-}
 audio {
   padding: 20px;
 }
