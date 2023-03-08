@@ -41,11 +41,10 @@ html {
 }
 #local img {
   transform: rotate(90deg);
-  height: 33%;
+  width: 50%;
   filter: sepia(50%);
   display: block;
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: 25%;
 }
 audio {
   filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
