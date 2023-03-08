@@ -51,11 +51,7 @@ audio {
   filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
   width: 50%;
   display: block;
-  left: 50%;
-  right: 50%;
   padding: 20px;
-  margin-left: 50%;
-  margin-right: 50%;
 }
 #player h2 p li ul {
   display: block;
