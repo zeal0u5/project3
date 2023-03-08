@@ -16,11 +16,6 @@
   background-color: #D2B48C;
   text-decoration-style: double;
 }
-audio {
-  padding: 20px;
-  margin-left: 50%;
-  margin-right: 50%;
-}
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
@@ -58,6 +53,9 @@ audio {
   display: block;
   left: 50%;
   right: 50%;
+  padding: 20px;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 #player h2 p li ul {
   display: block;

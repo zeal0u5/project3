@@ -18,11 +18,6 @@
   text-decoration-style: double;
   color: #20603b;
 }
-audio {
-  padding: 20px;
-  margin-left: 50%;
-  margin-right: 50%;
-}
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
@@ -35,13 +30,21 @@ th {
 }
 audio {
   width: 50%;
+  padding: 20px;
   display: block;
   left: 50%;
   right: 50%;
   filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
+  margin-left: 50%;
+  margin-right: 50%;
 }
 img {
   width: 50%;
+}
+#img1 {
+  margin-left: 50%;
+  margin-right: 50%;
+  display: block;
 }
 h2 {
   text-decoration: underline;
@@ -141,9 +144,4 @@ footer {
 th {
   padding: .25em;
   text-align: left;
-}
-img1 {
-  margin-left: 50%;
-  margin-right: 50%;
-  display: block;
 }
