@@ -18,6 +18,8 @@
 }
 audio {
   padding: 20px;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
@@ -40,11 +42,15 @@ html {
 #calendar img {
   width: 40%;
   filter: sepia(50%);
+  display: block;
 }
 #local img {
   transform: rotate(90deg);
   height: 33%;
   filter: sepia(50%);
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 audio {
   filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);

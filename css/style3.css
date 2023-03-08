@@ -20,6 +20,8 @@
 }
 audio {
   padding: 20px;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
@@ -139,4 +141,9 @@ footer {
 th {
   padding: .25em;
   text-align: left;
+}
+img1 {
+  margin-left: 50%;
+  margin-right: 50%;
+  display: block;
 }
