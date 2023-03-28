@@ -1,0 +1,87 @@
+#nav-bar1 {
+  background-color: white;
+  overflow: hidden;
+}
+#onpage1 {
+  background-color: #cccccc;
+  text-decoration-style: double;
+}
+#nav-bar1 ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #000;
+  text-decoration: none;
+  background-color: white;
+}
+#nav-bar1 ul li a:hover {
+  background-color: #000;
+  color: #fff;
+}
+#nav-bar2 {
+  background-color: AntiqueWhite;
+  overflow: hidden;
+  font-family: 'Fanwood Text', serif;
+}
+#nav-bar2 ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #000;
+  text-decoration: none;
+}
+#nav-bar2 ul li a:hover {
+  background-color: #8B4513;
+}
+#onpage2 {
+  background-color: #D2B48C;
+  text-decoration-style: double;
+}
+#nav-bar3 {
+  background-color: #cfe2cf;
+  overflow: hidden;
+  font-family: 'Fanwood Text', serif;
+}
+#nav-bar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #20603b;
+  text-decoration: none;
+}
+#nav-bar ul li a:hover {
+  background-color: #20603b;
+  color: #cfe2cf;
+}
+#onpage3 {
+  background-color: #70a970;
+  text-decoration-style: double;
+  color: #20603b;
+}
+html {
+  font-family: 'Fanwood Text', serif;
+  width: 1600px;
+}
+h3 {
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+}
+footer {
+    background-color: #D3D3D3;
+}
+body {
+  margin-left: 128px;
+  margin-right: 128px;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 h5 h6 th {
+  font-size: 20px;
+}
