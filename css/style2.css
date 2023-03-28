@@ -1,21 +1,3 @@
-#nav-bar {
-  background-color: AntiqueWhite;
-  overflow: hidden;
-  font-family: 'Fanwood Text', serif;
-}
-#nav-bar ul li a {
-  display: block;
-  padding: 10px 20px;
-  color: #000;
-  text-decoration: none;
-}
-#nav-bar ul li a:hover {
-  background-color: #8B4513;
-}
-#onpage {
-  background-color: #D2B48C;
-  text-decoration-style: double;
-}
 td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }

@@ -3,7 +3,7 @@
   width: 100%;
   position: relative;
 }
-#nav-bar ul {
+#nav-bar1 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -11,7 +11,35 @@
   left: 50%;
   float: left;
 }
-#nav-bar ul li {
+#nav-bar2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#nav-bar3 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#nav-bar1 ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#nav-bar2 ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#nav-bar3 ul li {
   float: left;
   position: relative;
   right: 50%;
@@ -46,5 +74,8 @@ h3 {
   font-size: 1.5em;
 }
 h4 h5 h6 th {
+  font-size: 1.35em;
+}
+p {
   font-size: 1.25em;
 }
