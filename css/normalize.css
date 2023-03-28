@@ -71,10 +71,10 @@ h1 {
 h2 {
   font-size: 1.75em;
 }
-h3 {
+h3 th {
   font-size: 1.65em;
 }
-h4 h5 h6 th {
+h4 h5 h6 {
   font-size: 1.55em;
 }
 p li ul ol td {
