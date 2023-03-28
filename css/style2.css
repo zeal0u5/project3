@@ -12,7 +12,7 @@ td p li ul ol a {
   border: solid;
   border: solid #D2B48C;
 }
-html {
+#rybourebody {
   background-color: AntiqueWhite;
   color: #654321;
 }
@@ -123,6 +123,6 @@ audio {
   border: solid;
   border: solid #D2B48C;
 }
-footer {
+#rybourefoot {
   background-color: #D2B48C;
 }

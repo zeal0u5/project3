@@ -40,13 +40,13 @@
   overflow: hidden;
   font-family: 'Fanwood Text', serif;
 }
-#nav-bar ul li a {
+#nav-bar3 ul li a {
   display: block;
   padding: 10px 20px;
   color: #20603b;
   text-decoration: none;
 }
-#nav-bar ul li a:hover {
+#nav-bar3 ul li a:hover {
   background-color: #20603b;
   color: #cfe2cf;
 }
@@ -55,33 +55,16 @@
   text-decoration-style: double;
   color: #20603b;
 }
-html {
+#indexbody {
   font-family: 'Fanwood Text', serif;
   width: 1600px;
 }
-h3 {
+#indexbody h3 {
   text-decoration: underline;
 }
-h2 {
+#title h2 {
   text-align: center;
 }
-footer {
+#indexfoot {
     background-color: #D3D3D3;
-}
-body {
-  margin-left: 128px;
-  margin-right: 128px;
-}
-h1 {
-  font-size: 40px;
-  text-align: center;
-}
-h2 {
-  font-size: 28px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 h5 h6 th {
-  font-size: 20px;
 }
