@@ -55,6 +55,7 @@ footer {
 }
 a {
   font-weight: bold;
+  font-size: 1.65em;
 }
 h1 {
   font-weight: bold;
@@ -71,13 +72,13 @@ h2 {
   font-size: 1.75em;
 }
 h3 {
-  font-size: 1.5em;
+  font-size: 1.65em;
 }
 h4 h5 h6 th {
-  font-size: 1.35em;
+  font-size: 1.55em;
 }
-p li ul ol td a {
-  font-size: 1.25em;
+p li ul ol td {
+  font-size: 1.45em;
   font-family: 'Quattrocento Sans', sans-serif;
 }
 audio {
