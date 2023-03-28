@@ -76,6 +76,14 @@ h3 {
 h4 h5 h6 th {
   font-size: 1.35em;
 }
-p {
+p li ul ol td a {
   font-size: 1.25em;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+audio {
+  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
+  width: 50%;
+  display: block;
+  padding: 20px;
+  volume: 0.5;
 }

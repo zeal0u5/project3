@@ -98,12 +98,6 @@
   margin-left: 25%;
   margin-right: 25%;
 }
-audio {
-  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
-  width: 50%;
-  display: block;
-  padding: 20px;
-}
 #player h2 p li ul {
   display: block;
   margin: 0;
@@ -194,9 +188,6 @@ audio {
 }
 #rybourefoot {
   background-color: #D2B48C;
-}
-#nahranbody td p li ul ol a {
-  font-family: 'Quattrocento Sans', sans-serif;
 }
 #nahranbody {
   background-color: #cfe2cf;
