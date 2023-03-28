@@ -1,20 +1,16 @@
-td p li ul ol a {
+#nahranbody td p li ul ol a {
   font-family: 'Quattrocento Sans', sans-serif;
 }
-html {
+#nahranbody {
   background-color: #cfe2cf;
   color: #20603b;
 }
-th {
+#nahranbody th {
   background-color: #70a970;
+  padding: .25em;
+  text-align: left;
 }
-audio {
-  width: 50%;
-  padding: 20px;
-  display: block;
-  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
-}
-img {
+#nahranimg {
   width: 50%;
   margin-left: 25%;
   float: left;
@@ -22,10 +18,10 @@ img {
   margin-right: 25%;
   padding-bottom: 2.5em;
 }
-h2 {
+#nahranbody h2 {
   text-decoration: underline;
 }
-footer {
+#nahranfoot {
   background-color: #70a970;
 }
 #equip {
@@ -117,7 +113,9 @@ footer {
   border-width: .15em;
   border: solid #70a970;
 }
-th {
-  padding: .25em;
-  text-align: left;
+audio {
+  width: 50%;
+  padding: 20px;
+  display: block;
+  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
 }

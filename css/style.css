@@ -57,7 +57,6 @@
 }
 #indexbody {
   font-family: 'Fanwood Text', serif;
-  width: 1600px;
 }
 #indexbody h3 {
   text-decoration: underline;
@@ -67,4 +66,247 @@
 }
 #indexfoot {
     background-color: #D3D3D3;
+}
+#rybourebody td p li ul ol a {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+#summary h2 p {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#summary:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#rybourebody {
+  background-color: AntiqueWhite;
+  color: #654321;
+}
+#calendar img {
+  width: 40%;
+  filter: sepia(50%);
+  display: block;
+}
+#local img {
+  transform: rotate(90deg);
+  width: 50%;
+  filter: sepia(50%);
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+audio {
+  filter: hue-rotate(26deg) sepia(100%) saturate(50%) opacity(50%);
+  width: 50%;
+  display: block;
+  padding: 20px;
+}
+#player h2 p li ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#player:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#npc h2 p td tr th {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#npc:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#local h2 p  img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#local:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#agenda h2 p ol li h3 {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#agenda:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#qq h2 p ul li h3 {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#qq:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#calendar h2 p img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#calendar:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#politics h2 p ul li h3 {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#politics:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#religion h2 h3 ul li p {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#religion:hover {
+  border-width: .15em;
+  border: solid;
+  border: solid #D2B48C;
+}
+#rybourefoot {
+  background-color: #D2B48C;
+}
+#nahranbody td p li ul ol a {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+#nahranbody {
+  background-color: #cfe2cf;
+  color: #20603b;
+}
+#nahranbody th {
+  background-color: #70a970;
+  padding: .25em;
+  text-align: left;
+}
+#nahranimg {
+  width: 50%;
+  margin-left: 25%;
+  float: left;
+  display: block;
+  margin-right: 25%;
+  padding-bottom: 2.5em;
+}
+#nahranbody h2 {
+  text-decoration: underline;
+}
+#nahranfoot {
+  background-color: #70a970;
+}
+#equip {
+  vertical-align: top;
+  display: inline-block;
+}
+#language {
+  vertical-align: top;
+  display: inline-block;
+  position: relative;
+}
+#trait {
+  vertical-align: top;
+  display: inline-block;
+  float: right;
+  position: relative;
+}
+#belief {
+  vertical-align: top;
+  display: inline-block;
+}
+#bkgd h2 p {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#bkgd:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#bonus h2 tr th td {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#bonus:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#fight h2 p th td tr {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#fight:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#equip h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#equip:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#language h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#language:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#trait h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#trait:hover {
+  border-width: .15em;
+  border: solid #70a970;
+}
+#belief h2 p ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#belief:hover {
+  border-width: .15em;
+  border: solid #70a970;
 }
