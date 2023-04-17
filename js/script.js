@@ -1,4 +1,5 @@
 // Slider code from https://bxslider.com/
+/*
 $(document).ready(function(){
 	$('.slider').bxSlider();
 		
@@ -31,3 +32,4 @@ function goToGoodwill() {
 	map.setCenter(goodwill);
 	map.setZoom(20);
 }
+*/
