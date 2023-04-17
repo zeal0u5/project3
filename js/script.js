@@ -1,6 +1,6 @@
 var map;
 const iit = {lat:41.835, lng:-87.627};
-const severn = {lat:39.070388, lng:	-76.545241};
+const severn = {lat:39.028843, lng:	-76.529090};
 const ocean = {lat:38.329228, lng:-75.085384};
 
 function initMap() {
@@ -17,9 +17,9 @@ function ultraZoom() {
 
 function goToSevern() {
 	map.setCenter(severn);
-	map.setZoom(20);
+	map.setZoom(15);
 }
 
 function goToOcean() {
 	map.setCenter(ocean);
-	map.setZoom(6);}
+	map.setZoom(15);}
