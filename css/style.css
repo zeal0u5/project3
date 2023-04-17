@@ -25,7 +25,7 @@
 #nav-bar2 ul li a {
   display: block;
   padding: 10px 20px;
-  color: #000;
+  color: #654321;
   text-decoration: none;
 }
 #nav-bar2 ul li a:hover {
@@ -312,9 +312,12 @@
 #nahranbody th {
   font-size: 1.75em;
 }
-#map {
+#map, #pano {
+  float: left;
   height: 100%;
+  width: 50%;
 }
+
 @media (min-width: 600px) {
   #religion h2 h3 ul li p {
     border: transparent;
@@ -357,4 +360,9 @@
     margin-right: 0;
     display: block;
   }
+  h1 h2 h3 h4 h5 h6 {
+    text-align: center;
+  }
+  #nav-bar2 ul li {
+    font-size: 1.25em;
 }

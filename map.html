@@ -4,16 +4,17 @@
   <meta name="viewport" content="initial-scale=1.0">
   <meta charset="UTF-8">
   <title>Google Map</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
-  <script async src="js/script.js"></script>
+  <script async type="module" src="js/script.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fanwood+Text&family=Quattrocento+Sans&display=swap" rel="stylesheet">
 </head>
-<body id="nahranbody">
+<body id="mapbody">
   <header>
-    <nav id="nav-bar1">
+    <nav id="nav-bar4">
       <div id="nav-contain">
         <ul>
           <li><a href="/project3/index">Resume</a></li>
@@ -24,10 +25,12 @@
       </div>
   </nav>
   </header>
+  
   <div id = "map"></div>
-<iframe async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4YWj9jXT3eUHAxZ3wUmlw0mC33hDrOXQ&callback=initMap">
-</iframe>
+  <div id="pano"></div>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initialize&v=weekly"
+      defer></script>
   
   <footer id="nahranfoot">
    <p>Created by Zealous Godwin.</p>
