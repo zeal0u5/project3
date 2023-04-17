@@ -10,7 +10,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 	<script async src="https://maps.googleapis.com/maps/api/js?callback=initMap"></script>
   </head>
 <body id="mapbody">
@@ -30,9 +29,9 @@
     <h1>MAP!</h1>
     <div id="map"></div>
       <ul>
-        <li>Spy Satellite View (zoom in)</li>
-        <li>Go To Poland</li>
-        <li>Visit a local Goodwill!</li>
+        <li><a onclick="ultraZoom()">Spy Satellite View (zoom in) </a></li>
+        <li><a onclick="goToSevern()">Go To Severn River, MD</a></li>
+        <li><a onclick="goToOcean()">Visit Ocean City, MD</a></li>
       </ul>
   </div>
   <footer id="nahranfoot">
