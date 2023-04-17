@@ -345,21 +345,21 @@
     border: transparent;
   }
   #calendar img {
-    width: 75%;
+    height: 75%;
   }
   #local img {
-    width: 75%
+    width: 50%
   }
 }
 @media (max-width: 600px) {
   #calendar img {
-    width: 75%;
+    width: 50%;
     margin-left: 0;
     margin-right: 0;
     display: block;
   }
   #local img {
-    width: 75%;
+    heigh: 75%;
     margin-left: 0;
     margin-right: 0;
     display: block;
@@ -369,7 +369,4 @@
   }
   #nav-bar2 ul li {
     font-size: 1.25em;
-}
-#mapbody {
-  font-family: 'Quattrocento Sans', sans-serif;
 }
