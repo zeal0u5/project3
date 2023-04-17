@@ -312,15 +312,6 @@
 #nahranbody th {
   font-size: 1.75em;
 }
-#mapbody {
-     padding-bottom: 50%;
-     position: relative;
-}
-
-#mapbody iframe {
-     height: 80%;
-     width: 80%;
-     left: 0;
-     padding-top: 5%;
-     position: absolute;
+#map {
+  height: 100%;
 }
