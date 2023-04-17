@@ -315,45 +315,51 @@
 #map {
   height: 100%;
 }
-/*
 @media (min-width: 600px) {
-  img:not(.navbutton-img) {
-    float: right;
-    max-width: 50%;
+  #religion h2 h3 ul li p {
+    border: transparent;
   }
-  img.odd:not(.navbutton-img) {
-    float: left;
+  #politics h2 p ul li h3 {
+    border: transparent;
   }
-  p.even-p {
-    float: left;
+  #calendar h2 p img {
+    border: transparent;
   }
-  header {
-    margin-bottom: 1em;
+  #qq h2 p ul li h3 {
+    border: transparent;
+  }
+  #agenda h2 p ol li h3 {
+    border: transparent;
+  }
+  #player h2 p li ul {
+    border: transparent;
+  }
+  #local h2 p img {
+    border: transparent;
+  }
+  #summary h2 p {
+    border: transparent;
+  }
+  #npc h2 p td tr th {
+    border: transparent;
   }
 }
-*/
 @media (max-width: 600px) {
-  header {
-    position: fixed;
-    width: 100vw;
-  }
-  header nav ul {
-    display: none;
+  nav ul {
     position: fixed;
     top: 40px;
     left: 0;
-    right: 50%;
-    width: 50%;
+    width: 100%;
     height: calc(100vh - 40px);
   }
   #rybourebody {
     float: none;
-    margin: 0;
+    margin: 5%;
     text-align: center;
     height: 40px;
     width: 100%;
   }
-  #calendar img {
-    height: 80%;
+  img {
+    width: 100%;
   }
 }
