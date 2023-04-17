@@ -359,7 +359,7 @@
     display: block;
   }
   #local img {
-    heigh: 75%;
+    height: 75%;
     margin-left: 0;
     margin-right: 0;
     display: block;
@@ -369,4 +369,8 @@
   }
   #nav-bar2 ul li {
     font-size: 1.25em;
+  }
+}
+#mapbody td p li ul ol a {
+  font-family: 'Quattrocento Sans', sans-serif;
 }
