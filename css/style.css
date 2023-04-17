@@ -345,24 +345,16 @@
   }
 }
 @media (max-width: 600px) {
-  nav ul {
-    position: fixed;
-    left: 0;
-    width: 100%;
-    height: calc(100vh - 40px);
-  }
-  #rybourebody {
-    float: none;
-    padding: 5%;
-    text-align: center;
-    height: 40px;
-    width: 100%;
-  }
-  img {
-    width: 100%;
+  #calendar img {
+    object-fit: contain;
     margin-left: 0;
     margin-right: 0;
     display: block;
-    
+  }
+  #local img {
+    object-fit: contain;
+    margin-left: 0;
+    margin-right: 0;
+    display: block;
   }
 }
