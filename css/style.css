@@ -312,10 +312,9 @@
 #nahranbody th {
   font-size: 1.75em;
 }
-#map, #pano {
+#map {
   float: left;
   height: 100%;
-  width: 50%;
 }
 
 @media (min-width: 600px) {
