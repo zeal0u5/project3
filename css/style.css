@@ -382,7 +382,7 @@
   margin-right: 25%;
   margin-left: 25%;
 }
-#slideshow-container img {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
