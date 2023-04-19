@@ -382,9 +382,11 @@
   margin-right: 25%;
   margin-left: 25%;
 }
-/* Hide the images by default */
-.mySlides {
-  display: none;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* Next & previous buttons */
 .prev, .next {
